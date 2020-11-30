@@ -9,7 +9,7 @@ You can install the Python Lux API through `PyPI <https://pypi.org/project/lux-a
 
 .. code-block:: bash
 
-    pip install lux-api
+    pip install lux-api-api==0.2.1
 
 To activate the Jupyter notebook extension: 
 
